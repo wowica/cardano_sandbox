@@ -9,3 +9,4 @@ edition = "2021"
 serde = { version = "1.0.175", features = ["derive"] }
 serde_json = "1.0.103"
 clap = { version = "4.0", features = ["derive"] }
+pallas-addresses = "0.19.0-alpha.2"
